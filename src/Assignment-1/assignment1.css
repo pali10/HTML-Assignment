@@ -1,7 +1,29 @@
-/* Our CSS file. */
-
-
-.container, .content {
-width: 100%;
-height: 100%;
-}
+ul{
+    list-style-type:circle; 
+  }
+  
+   
+  .sub-class-list{
+    height:50%;
+    width:50%;
+    float:left;
+  }
+  .image{
+   height:50%;
+    width:50%;
+    float:left;
+  }
+  
+  
+  
+  .image1{
+    height:50%;
+    width:50%;
+    float:left;
+  }
+  
+  .heading{
+    height:50%;
+    width:50%;
+    float:left;
+  }
